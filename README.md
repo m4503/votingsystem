@@ -10,4 +10,4 @@ MySQL 8.x
 mvn clean install
 mvn spring-boot:run
 
-後端將運行於 http://localhost:8080。
+後端將運行於 http://localhost:8080

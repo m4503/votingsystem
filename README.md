@@ -1,6 +1,6 @@
 # 投票系統後端
 
-建置與運行:
+運行:
 
 mvn clean install
 
